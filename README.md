@@ -84,11 +84,15 @@
     - Highlight whitelist & blacklist
 
 ### Optional Extras
-- Shopware integration - For product and order management
-- Mobile registration image app - Ensure that registration images are valid at terminal in real-time, including resco integration
-- Personalised digital signage - As people walk past, we show their photos
-- Exported offline, post cruise store
-- Multi-week cruise customers see all photos across cruises
+- Detailed product and pricing setup
+- Later Phase - Shopware integration - For product, price and order management
+- Registration Image Validation in port terminal (eg, Registration Laptop -> Validation Service) - Ensure that registration images are valid at terminal in real-time, before sending to resco / photo server
+- Personalised digital signage - As people walk past, we show their portrait photos. Many other applications, eg Coffee shop & predictions
+- Ensure validity of exported data for offline / post cruise selling - eg, validate APIs and relative paths for photos
+- Back-to-back cruise customers see all photos across all cruises - eg, ensure that each 'week' is archived without causing performance issues
+- Consume Resco API for retrieving customer name
+- Consume Resco event (if available) for triggering cabin change
+- Order list admin screen shows summary and status
 
 ### All Features
 - 3 core services - Recognition engine, api & data integration layer, photo booth web application
