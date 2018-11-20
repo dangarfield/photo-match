@@ -17,7 +17,7 @@
 - Admin area for maintenance, content management, shop management, registration and portrait image error correction / allocation
 - Built on 38 APIs in 3 services, easily extensible
 
-### Demo
+### Demo
 - Open site: http://photomatch.tui-maker-fair.co.uk
 - Real life demo
   - Before demo, remove all registration files for 123, 1234, 1235 cabins & test allocation folders (in admin files section)
