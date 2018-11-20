@@ -83,7 +83,7 @@
     - Highlight assigned cabin ids = Probably the right people
     - Highlight whitelist & blacklist
 
-### Optional Extras
+### Extras that are not complete / requested - Pending DigiTech / TUI requirements
 - Detailed product and pricing setup
 - Later Phase - Shopware integration - For product, price and order management
 - Registration Image Validation in port terminal (eg, Registration Laptop -> Validation Service) - Ensure that registration images are valid at terminal in real-time, before sending to resco / photo server
